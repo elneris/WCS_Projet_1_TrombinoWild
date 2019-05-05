@@ -1,5 +1,7 @@
 # Projet 1 : Trombino'WILD
 
+## Voici le projet numéro 1 lors de mon cursus à la Wild Code School Février 2019
+
 Groupe DHCH Wild : 
 
 - Elnéris Dang PHP
